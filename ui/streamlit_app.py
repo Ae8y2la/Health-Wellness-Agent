@@ -23,7 +23,7 @@ logger = logging.getLogger(__name__)
 sys.path.append(str(Path(__file__).parent.parent))
 
 # --- Constants ---
-API_BASE_URL = os.getenv("API_BASE_URL", "http://localhost:8000")
+API_BASE_URL = os.getenv("API_BASE_URL","https://fastapi-backend-production-7f8e.up.railway.app")
 MAX_RETRIES = 3
 RETRY_DELAY = 2  # seconds
 
