@@ -11,12 +11,6 @@
 
 **🩹 Injury Support:** *Gives quick advice on minor injuries and recovery routines.*
 
-**📄 PDF Export:** *Generate downloadable wellness reports for personal tracking.*
-
-**🎙️ Voice Input (Toggle):** *Optional voice-based chat input for hands-free interaction.*
-
-**📅 Calendar Sync (Toggle):** *Integrate future planner features into your daily schedule.*
-
 **⚡ FastAPI Backend:** *Optimized async support for scalability and modular growth.*
 
 ---
